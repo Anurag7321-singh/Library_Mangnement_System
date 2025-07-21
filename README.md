@@ -30,7 +30,4 @@ A mini project developed as part of college coursework and training under **GUVI
 - **Interface:** CLI (Command Line Interface)
 - **Storage:** Text files / CSV / JSON (based on your version)
 
----
-
-## 📁 Project Structure
 
